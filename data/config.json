@@ -1,0 +1,4 @@
+{
+    "instance_type" :  "t2.nano",
+    "image_id" : "ami-0d0ca2066b861631c"
+}
